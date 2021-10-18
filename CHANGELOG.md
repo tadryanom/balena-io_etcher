@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.7.0
+## (2021-10-18)
+
+* patch: Update etcher-sdk from v6.2.5 to v6.3.0 [Lorenzo Alberto Maria Ambrosi]
+* Fix write step for Http file process [JSReds]
+* patch: Fix linting errors [Lorenzo Alberto Maria Ambrosi]
+* minor: Refactor dependencies installation to avoid custom scripts [Lorenzo Alberto Maria Ambrosi]
+* patch: Fix LEDs init error [Lorenzo Alberto Maria Ambrosi]
+
 # v1.6.0
 ## (2021-09-20)
 
