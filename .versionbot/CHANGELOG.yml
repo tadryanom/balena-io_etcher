@@ -1,4 +1,49 @@
 - commits:
+    - subject: 'patch: Update etcher-sdk from v6.2.5 to v6.3.0'
+      hash: 37b826ee4ee47bda5285083c2184b7e6bf2a6a3b
+      body: ''
+      footer:
+        Signed-off-by: Lorenzo Alberto Maria Ambrosi <lorenzothunder.ambrosi@gmail.com>
+        signed-off-by: Lorenzo Alberto Maria Ambrosi <lorenzothunder.ambrosi@gmail.com>
+      author: Lorenzo Alberto Maria Ambrosi
+      nested: []
+    - subject: Fix write step for Http file process
+      hash: 1e1bd3c508197f0e129715d5e37d1bc06744089b
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Andrea Rosci <andrear@balena.io>
+        signed-off-by: Andrea Rosci <andrear@balena.io>
+      author: JSReds
+      nested: []
+    - subject: 'patch: Fix linting errors'
+      hash: 00e8f11913eb9eaadb09909cc530693aac825e9f
+      body: ''
+      footer:
+        Signed-off-by: Lorenzo Alberto Maria Ambrosi <lorenzothunder.ambrosi@gmail.com>
+        signed-off-by: Lorenzo Alberto Maria Ambrosi <lorenzothunder.ambrosi@gmail.com>
+      author: Lorenzo Alberto Maria Ambrosi
+      nested: []
+    - subject: 'minor: Refactor dependencies installation to avoid custom scripts'
+      hash: a3c24a26a05d1c3a767bf7f515cc7f193c9d8e2b
+      body: ''
+      footer:
+        Signed-off-by: Lorenzo Alberto Maria Ambrosi <lorenzothunder.ambrosi@gmail.com>
+        signed-off-by: Lorenzo Alberto Maria Ambrosi <lorenzothunder.ambrosi@gmail.com>
+      author: Lorenzo Alberto Maria Ambrosi
+      nested: []
+    - subject: 'patch: Fix LEDs init error'
+      hash: 4232928ad894fed548290054b09e25e60fa9eda3
+      body: ''
+      footer:
+        Signed-off-by: Lorenzo Alberto Maria Ambrosi <lorenzothunder.ambrosi@gmail.com>
+        signed-off-by: Lorenzo Alberto Maria Ambrosi <lorenzothunder.ambrosi@gmail.com>
+      author: Lorenzo Alberto Maria Ambrosi
+      nested: []
+  version: 1.7.0
+  date: 2021-10-18T08:54:01.469Z
+- commits:
     - subject: Add support for basic auth when downloading images from URL.
       hash: b2d0c1c9ddbbfe87d5a905d420d615821610e825
       body: >
